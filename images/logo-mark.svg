@@ -1,0 +1,14 @@
+<svg viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="kpLogoTitle">
+  <title id="kpLogoTitle">Koivuniemen Puutarha, Huittinen</title>
+  <g fill="none" stroke="#5B2A3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- minimal berry-branch mark -->
+    <path d="M60 160c0-30 10-52 26-66" />
+    <circle cx="60" cy="120" r="8" fill="#5B2A3A" stroke="none" />
+    <circle cx="82" cy="98" r="8" fill="#8C4A5E" stroke="none" />
+    <circle cx="100" cy="132" r="8" fill="#8C4A5E" stroke="none" />
+  </g>
+  <text x="180" y="94" font-family="'Cormorant Garamond', Georgia, serif" font-size="40" letter-spacing="1" fill="#5B2A3A">Koivuniemen</text>
+  <text x="180" y="140" font-family="'Cormorant Garamond', Georgia, serif" font-size="40" letter-spacing="1" fill="#5B2A3A">Puutarha</text>
+  <line x1="182" y1="158" x2="560" y2="158" stroke="#8C4A5E" stroke-width="2" />
+  <text x="182" y="182" font-family="'Nunito Sans', Arial, sans-serif" font-size="15" letter-spacing="3" fill="#8C4A5E">HUITTINEN · SASKATOON-MARJOJA</text>
+</svg>
